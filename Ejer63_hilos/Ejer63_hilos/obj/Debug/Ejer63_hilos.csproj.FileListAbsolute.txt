@@ -1,0 +1,10 @@
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer63_hilos\Ejer63_hilos\bin\Debug\Ejer63_hilos.exe.config
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer63_hilos\Ejer63_hilos\bin\Debug\Ejer63_hilos.exe
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer63_hilos\Ejer63_hilos\bin\Debug\Ejer63_hilos.pdb
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer63_hilos\Ejer63_hilos\obj\Debug\Ejer63_hilos.csprojAssemblyReference.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer63_hilos\Ejer63_hilos\obj\Debug\Ejer63_hilos.Form1.resources
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer63_hilos\Ejer63_hilos\obj\Debug\Ejer63_hilos.Properties.Resources.resources
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer63_hilos\Ejer63_hilos\obj\Debug\Ejer63_hilos.csproj.GenerateResource.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer63_hilos\Ejer63_hilos\obj\Debug\Ejer63_hilos.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer63_hilos\Ejer63_hilos\obj\Debug\Ejer63_hilos.exe
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer63_hilos\Ejer63_hilos\obj\Debug\Ejer63_hilos.pdb

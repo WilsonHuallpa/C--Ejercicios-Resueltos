@@ -1,0 +1,12 @@
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\obj\Debug\Bibloteca_ejer58.csprojAssemblyReference.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\obj\Debug\Bibloteca_ejer58.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\bin\Debug\Bibloteca_ejer58.dll
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\bin\Debug\Bibloteca_ejer58.pdb
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\obj\Debug\Bibloteca_ejer58.dll
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\obj\Debug\Bibloteca_ejer58.pdb
+C:\c_sharp\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\bin\Debug\Bibloteca_ejer58.dll
+C:\c_sharp\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\bin\Debug\Bibloteca_ejer58.pdb
+C:\c_sharp\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\obj\Debug\Bibloteca_ejer58.csproj.AssemblyReference.cache
+C:\c_sharp\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\obj\Debug\Bibloteca_ejer58.csproj.CoreCompileInputs.cache
+C:\c_sharp\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\obj\Debug\Bibloteca_ejer58.dll
+C:\c_sharp\Proyectos.C#\GuiasEjecicios\Ejer_Archivos\Bibloteca_ejer58\obj\Debug\Bibloteca_ejer58.pdb

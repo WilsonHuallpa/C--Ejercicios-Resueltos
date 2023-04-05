@@ -1,0 +1,2 @@
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache

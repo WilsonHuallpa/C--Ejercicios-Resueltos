@@ -1,0 +1,15 @@
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer01\Ejer01\bin\Debug\Ejer01.exe.config
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer01\Ejer01\bin\Debug\Ejer01.exe
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer01\Ejer01\bin\Debug\Ejer01.pdb
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer01\Ejer01\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer01\Ejer01\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer01\Ejer01\obj\Debug\Ejer01.exe
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer01\Ejer01\obj\Debug\Ejer01.pdb
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejercicio1al10\Ejer01\bin\Debug\Ejer01.exe.config
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejercicio1al10\Ejer01\bin\Debug\Ejer01.exe
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejercicio1al10\Ejer01\bin\Debug\Ejer01.pdb
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejercicio1al10\Ejer01\obj\Debug\main.csproj.AssemblyReference.cache
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejercicio1al10\Ejer01\obj\Debug\main.csproj.SuggestedBindingRedirects.cache
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejercicio1al10\Ejer01\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejercicio1al10\Ejer01\obj\Debug\Ejer01.exe
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejercicio1al10\Ejer01\obj\Debug\Ejer01.pdb

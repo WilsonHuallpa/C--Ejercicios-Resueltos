@@ -1,0 +1,7 @@
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\objetos\objetos16al18\bin\Debug\objetos16al18.exe.config
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\objetos\objetos16al18\bin\Debug\objetos16al18.exe
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\objetos\objetos16al18\bin\Debug\objetos16al18.pdb
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\objetos\objetos16al18\obj\Debug\objetos16al18.csprojAssemblyReference.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\objetos\objetos16al18\obj\Debug\objetos16al18.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\objetos\objetos16al18\obj\Debug\objetos16al18.exe
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\objetos\objetos16al18\obj\Debug\objetos16al18.pdb

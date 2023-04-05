@@ -1,0 +1,7 @@
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_64_hilos\Ejer_64_hilos\bin\Debug\Ejer_64_hilos.exe.config
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_64_hilos\Ejer_64_hilos\bin\Debug\Ejer_64_hilos.exe
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_64_hilos\Ejer_64_hilos\bin\Debug\Ejer_64_hilos.pdb
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_64_hilos\Ejer_64_hilos\obj\Debug\Ejer_64_hilos.csprojAssemblyReference.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_64_hilos\Ejer_64_hilos\obj\Debug\Ejer_64_hilos.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_64_hilos\Ejer_64_hilos\obj\Debug\Ejer_64_hilos.exe
+C:\Users\Wilson\Desktop\Proyectos.C#\GuiasEjecicios\Ejer_64_hilos\Ejer_64_hilos\obj\Debug\Ejer_64_hilos.pdb
