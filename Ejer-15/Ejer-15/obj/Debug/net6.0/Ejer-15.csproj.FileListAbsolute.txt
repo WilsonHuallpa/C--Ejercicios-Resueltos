@@ -1,0 +1,15 @@
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\bin\Debug\net6.0\Ejer-15.exe
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\bin\Debug\net6.0\Ejer-15.deps.json
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\bin\Debug\net6.0\Ejer-15.runtimeconfig.json
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\bin\Debug\net6.0\Ejer-15.dll
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\bin\Debug\net6.0\Ejer-15.pdb
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\obj\Debug\net6.0\Ejer-15.csproj.AssemblyReference.cache
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\obj\Debug\net6.0\Ejer-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\obj\Debug\net6.0\Ejer-15.AssemblyInfoInputs.cache
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\obj\Debug\net6.0\Ejer-15.AssemblyInfo.cs
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\obj\Debug\net6.0\Ejer-15.csproj.CoreCompileInputs.cache
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\obj\Debug\net6.0\Ejer-15.dll
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\obj\Debug\net6.0\refint\Ejer-15.dll
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\obj\Debug\net6.0\Ejer-15.pdb
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\obj\Debug\net6.0\Ejer-15.genruntimeconfig.cache
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-15\Ejer-15\obj\Debug\net6.0\ref\Ejer-15.dll
