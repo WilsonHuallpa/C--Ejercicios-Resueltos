@@ -1,0 +1,6 @@
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-20-Billetes\Billetes\bin\Debug\Billetes.dll
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-20-Billetes\Billetes\bin\Debug\Billetes.pdb
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-20-Billetes\Billetes\obj\Debug\Billetes.csproj.AssemblyReference.cache
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-20-Billetes\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-20-Billetes\Billetes\obj\Debug\Billetes.dll
+C:\C#\Practica\Ejercicios\Ejer-Clases\GuiasEjecicios\Ejer-20-Billetes\Billetes\obj\Debug\Billetes.pdb
